@@ -1,0 +1,31 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SmokeSuite" parallel="tests">
+    <test name="tests.SmokeTestsChrome" parallel="methods" thread-count="4">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="tests.SmokeTests">
+                <methods>
+                    <include name="checkThatCatalogChoiceAppliancesShows12Item"/>
+                    <include name="checkThat2ItemsCanBeOrderedByExactSearch"/>
+                    <include name="testThatCheckBoxCallsOnlySamsung"/>
+                    <include name="testThatUrlContainsWords"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="tests.SmokeTestsFirefox" parallel="methods" thread-count="4">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="tests.SmokeTests">
+                <methods>
+                    <include name="checkThatCatalogChoiceAppliancesShows12Item"/>
+                    <include name="checkThat2ItemsCanBeOrderedByExactSearch"/>
+                    <include name="testThatCheckBoxCallsOnlySamsung"/>
+                    <include name="testThatUrlContainsWords"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

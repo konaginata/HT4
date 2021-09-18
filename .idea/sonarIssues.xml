@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.13.0/887ed48ab60624938cbe5accf361d4dd193f4313/selenide-5.13.0-sources.jar!/com/codeborne/selenide/Condition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.13.0/887ed48ab60624938cbe5accf361d4dd193f4313/selenide-5.13.0-sources.jar!/com/codeborne/selenide/Driver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.13.0/887ed48ab60624938cbe5accf361d4dd193f4313/selenide-5.13.0-sources.jar!/com/codeborne/selenide/ElementsCollection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.13.0/887ed48ab60624938cbe5accf361d4dd193f4313/selenide-5.13.0-sources.jar!/com/codeborne/selenide/Selenide.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.13.0/887ed48ab60624938cbe5accf361d4dd193f4313/selenide-5.13.0-sources.jar!/com/codeborne/selenide/SelenideDriver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.13.0/887ed48ab60624938cbe5accf361d4dd193f4313/selenide-5.13.0-sources.jar!/com/codeborne/selenide/SelenideElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.13.0/887ed48ab60624938cbe5accf361d4dd193f4313/selenide-5.13.0-sources.jar!/com/codeborne/selenide/conditions/Visible.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/cucumber-automation/src/main/resources/features/placeholder.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/cucumber-automation/src/main/resources/features/winnipeg/responsive/page_elements_verification/page_elements_verification.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/epam-automation/src/main/java/ca/canadiantire/engine/loyaltycard/LoyaltyCardSupplier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/epam-automation/src/main/java/ca/canadiantire/engine/ws/restclient/impl/hybris/OrderActionRestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/epam-automation/src/main/java/ca/canadiantire/pageobject/components/impl/aem/BuyBoxComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/epam-automation/src/main/java/ca/canadiantire/pageobject/components/impl/aem/header/SearchComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/epam-automation/src/main/resources/features/placeholder.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/epam-automation/src/main/resources/features/regression/order_management/replace_logic_from_cancel_and_cancellation_pending_to_refund_pending.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Cucumber/aqa/epam-automation/src/main/resources/features/smoke.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Jbehave/aqa/qa-framework-ecom-smoke/src/test/resources/stories/hybris/customerNotifications/rfpuEmail/check_rfpu_email_order_line_statuses.story">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Jbehave/aqa/qa-framework-ecom-smoke/src/test/resources/stories/hybris/webServices/isoo/hybris_pay_at_pos_attribute_in_service_response_when_aem_calls_orders_service.story">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Jbehave/aqa/qa-framework-ecom-smoke/src/test/resources/suites/service/temp_suite.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/pages/AppleStorePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/pages/BasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/pages/HomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/pages/ProductPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/pages/SearchResultsPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/pages/ShoppingCartPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/tests/AddToCartTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/tests/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/tests/SearchTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pagefactory/tests/SmokeTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pageobject/pages/AppleStorePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FirstWebDriverProject/src/test/java/pageobject/tests/AddToCartTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../GridV2.0/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/firefox.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pages/BasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pages/HomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pages/ProductPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pages/SearchResultsPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pages/ShoppingCartPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/utils/OptionsManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pages/AppleStorePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pages/BasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pages/CheckoutPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pages/HomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pages/ProductPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pages/SearchResultsPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pages/ShoppingCartPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/tests/AddToCartTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/tests/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/tests/SearchTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/tests/SmokeTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/utils/CapabilityFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/utils/OptionsManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PageObject/src/test/java/grid/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PageObject/src/test/java/grid/SmokeTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
