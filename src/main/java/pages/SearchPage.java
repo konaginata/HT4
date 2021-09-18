@@ -18,6 +18,10 @@ public class SearchPage extends BasePage {
         super(driver);
     }
 
+    public WebElement getPrice() {
+        return price;
+    }
+
     public void clickPerforatorBox() {
         perforatorBox.click();
     }

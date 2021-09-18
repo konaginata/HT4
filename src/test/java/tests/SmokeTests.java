@@ -29,6 +29,7 @@ public class SmokeTests extends BaseTest {
         getSearchPage().clickPerforatorBox();
         getSearchPage().clickPlusButton();
         getSearchPage().clickBuyButton();
+        getSearchPage().waitVisibilityOfElement(DEFAULT_WAITING_TIME, getSearchPage().getPrice());
         assertEquals(getSearchPage().getTextFromAmount(), "24 376");
     }
 
